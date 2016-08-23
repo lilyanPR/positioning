@@ -1,0 +1,31 @@
+.cajapink {
+	background-color: #ee3e64;
+	width: 200px;
+	height: 200px;
+	position: relative;
+	left: 60px;
+	top: 80px;
+}
+
+.cajablue {
+	background-color: #44accf;
+	width: 200px;
+	height: 200px;
+	position: relative;
+	left: 260px;
+	top: 80px;
+}
+
+.cajagreen {
+	background-color: #b7d84b;
+	width: 200px;
+	height: 200px;
+	position: relative;
+	left: 60px;
+	top: 80px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
